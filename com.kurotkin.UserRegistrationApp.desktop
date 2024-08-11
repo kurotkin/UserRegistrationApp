@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=com.kurotkin.UserRegistrationApp
+Exec=/usr/bin/com.kurotkin.UserRegistrationApp
+Name=UserRegistration
+Name[ru]=Регистрация пользователя
+
+[X-Application]
+Permissions=
+OrganizationName=com.kurotkin
+ApplicationName=UserRegistrationApp
+ExecDBus=/usr/bin/com.kurotkin.UserRegistrationApp
